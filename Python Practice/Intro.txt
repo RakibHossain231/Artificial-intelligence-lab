@@ -1,0 +1,11 @@
+- Name
+    - My full name is Rakib Hossain but you can call me Rakib
+- Age
+    - I'm 25 years old (My birthday is 06 June 2002 which is written
+         on my academic certificate  but my real birthday is 06 June 1999)
+    - I was born at Sarder Para. Sarder Para is located at Alawolpur UP,
+         Gosairhat Thana which means police station, and Shariatpur district
+         in Dhaka, Bangladesh
+- Where you live
+    - Currently, I live at Sayed Nagar near Badda in Dhaka.
+        - Dhaka is the capital of Bangladesh
